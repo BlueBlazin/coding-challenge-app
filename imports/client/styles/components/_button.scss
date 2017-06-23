@@ -1,0 +1,15 @@
+.button {
+  background: $brand-primary;
+  border: 1px solid $brand-text;
+  color: $brand-text;
+  cursor: pointer;
+  font-size: $base-font-size;
+  margin-top: $space / 2;
+  padding: $space / 2;
+  text-transform: uppercase;
+}
+
+.button:hover {
+  border: 1px solid $red-text;
+  color: $red-text
+}

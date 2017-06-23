@@ -1,0 +1,11 @@
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 1.3rem;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+}

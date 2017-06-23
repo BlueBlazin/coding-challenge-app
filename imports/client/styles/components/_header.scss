@@ -1,0 +1,19 @@
+.header {
+  background: $brand-primary;
+  color: $brand-text;
+  border-bottom: 1px solid $brand-text-secondary;
+
+  h1 {
+    transition: color 0.5s;
+  }
+
+  h1:hover {
+    color: #66d0fc;
+  }
+}
+
+.header__content {
+  max-width: $site-max-width;
+  margin: 0 auto;
+  padding: $space;
+}
