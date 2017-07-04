@@ -4,3 +4,7 @@ An app built using Meteor, and React for a student initiated 30 day coding chall
 
 
 -Sanjeet N. Dasharath
+
+
+## Live URL
+http://thirtydcc.herokuapp.com/
